@@ -1,0 +1,9 @@
+C:\Users\Никита\Desktop\TestDataGridView\TestDataGridView\bin\Debug\TestDataGridView.exe.config
+C:\Users\Никита\Desktop\TestDataGridView\TestDataGridView\bin\Debug\TestDataGridView.exe
+C:\Users\Никита\Desktop\TestDataGridView\TestDataGridView\bin\Debug\TestDataGridView.pdb
+C:\Users\Никита\Desktop\TestDataGridView\TestDataGridView\obj\Debug\TestDataGridView.csprojResolveAssemblyReference.cache
+C:\Users\Никита\Desktop\TestDataGridView\TestDataGridView\obj\Debug\TestDataGridView.Form1.resources
+C:\Users\Никита\Desktop\TestDataGridView\TestDataGridView\obj\Debug\TestDataGridView.Properties.Resources.resources
+C:\Users\Никита\Desktop\TestDataGridView\TestDataGridView\obj\Debug\TestDataGridView.csproj.GenerateResource.Cache
+C:\Users\Никита\Desktop\TestDataGridView\TestDataGridView\obj\Debug\TestDataGridView.exe
+C:\Users\Никита\Desktop\TestDataGridView\TestDataGridView\obj\Debug\TestDataGridView.pdb
