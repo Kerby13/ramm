@@ -1,0 +1,59 @@
+C:\Users\1\AppData\Local\Temporary Projects\WpfAppSeaBattle\bin\Debug\WpfAppSeaBattle.exe
+C:\Users\1\AppData\Local\Temporary Projects\WpfAppSeaBattle\bin\Debug\WpfAppSeaBattle.pdb
+C:\Users\1\AppData\Local\Temporary Projects\WpfAppSeaBattle\obj\x86\Debug\MainWindow.baml
+C:\Users\1\AppData\Local\Temporary Projects\WpfAppSeaBattle\obj\x86\Debug\MainWindow.g.cs
+C:\Users\1\AppData\Local\Temporary Projects\WpfAppSeaBattle\obj\x86\Debug\App.g.cs
+C:\Users\1\AppData\Local\Temporary Projects\WpfAppSeaBattle\obj\x86\Debug\WpfAppSeaBattle_MarkupCompile.cache
+C:\Users\1\AppData\Local\Temporary Projects\WpfAppSeaBattle\obj\x86\Debug\WpfAppSeaBattle.g.resources
+C:\Users\1\AppData\Local\Temporary Projects\WpfAppSeaBattle\obj\x86\Debug\WpfAppSeaBattle.Properties.Resources.resources
+C:\Users\1\AppData\Local\Temporary Projects\WpfAppSeaBattle\obj\x86\Debug\WpfAppSeaBattle.csproj.GenerateResource.Cache
+C:\Users\1\AppData\Local\Temporary Projects\WpfAppSeaBattle\obj\x86\Debug\WpfAppSeaBattle.exe
+C:\Users\1\AppData\Local\Temporary Projects\WpfAppSeaBattle\obj\x86\Debug\WpfAppSeaBattle.pdb
+C:\Users\1\Desktop\for_C#\home_projects\WpfAppSeaBattle\WpfAppSeaBattle\obj\x86\Debug\WpfAppSeaBattle.exe
+C:\Users\1\Desktop\for_C#\home_projects\WpfAppSeaBattle\WpfAppSeaBattle\obj\x86\Debug\WpfAppSeaBattle.pdb
+C:\Users\1\Desktop\for_C#\home_projects\WpfAppSeaBattle\WpfAppSeaBattle\bin\Debug\WpfAppSeaBattle.exe
+C:\Users\1\Desktop\for_C#\home_projects\WpfAppSeaBattle\WpfAppSeaBattle\bin\Debug\WpfAppSeaBattle.pdb
+C:\Users\1\Desktop\for_C#\home_projects\WpfAppSeaBattle\WpfAppSeaBattle\obj\x86\Debug\MainWindow.baml
+C:\Users\1\Desktop\for_C#\home_projects\WpfAppSeaBattle\WpfAppSeaBattle\obj\x86\Debug\MainWindow.g.cs
+C:\Users\1\Desktop\for_C#\home_projects\WpfAppSeaBattle\WpfAppSeaBattle\obj\x86\Debug\App.g.cs
+C:\Users\1\Desktop\for_C#\home_projects\WpfAppSeaBattle\WpfAppSeaBattle\obj\x86\Debug\WpfAppSeaBattle_MarkupCompile.cache
+C:\Users\1\Desktop\for_C#\home_projects\WpfAppSeaBattle\WpfAppSeaBattle\obj\x86\Debug\WpfAppSeaBattle.g.resources
+C:\Users\1\Desktop\for_C#\home_projects\WpfAppSeaBattle\WpfAppSeaBattle\obj\x86\Debug\WpfAppSeaBattle.Properties.Resources.resources
+C:\Users\1\Desktop\for_C#\home_projects\WpfAppSeaBattle\WpfAppSeaBattle\obj\x86\Debug\WpfAppSeaBattle.csproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\Рабочий стол\WpfAppSeaBattle\WpfAppSeaBattle\obj\x86\Debug\WpfAppSeaBattle.exe
+C:\Documents and Settings\Admin\Рабочий стол\WpfAppSeaBattle\WpfAppSeaBattle\obj\x86\Debug\WpfAppSeaBattle.pdb
+C:\Documents and Settings\Admin\Рабочий стол\WpfAppSeaBattle\WpfAppSeaBattle\bin\Debug\WpfAppSeaBattle.exe
+C:\Documents and Settings\Admin\Рабочий стол\WpfAppSeaBattle\WpfAppSeaBattle\bin\Debug\WpfAppSeaBattle.pdb
+C:\Documents and Settings\Admin\Рабочий стол\WpfAppSeaBattle\WpfAppSeaBattle\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Рабочий стол\WpfAppSeaBattle\WpfAppSeaBattle\obj\x86\Debug\MainWindow.baml
+C:\Documents and Settings\Admin\Рабочий стол\WpfAppSeaBattle\WpfAppSeaBattle\obj\x86\Debug\MainWindow.g.cs
+C:\Documents and Settings\Admin\Рабочий стол\WpfAppSeaBattle\WpfAppSeaBattle\obj\x86\Debug\App.g.cs
+C:\Documents and Settings\Admin\Рабочий стол\WpfAppSeaBattle\WpfAppSeaBattle\obj\x86\Debug\WpfAppSeaBattle_MarkupCompile.cache
+C:\Documents and Settings\Admin\Рабочий стол\WpfAppSeaBattle\WpfAppSeaBattle\obj\x86\Debug\WpfAppSeaBattle.g.resources
+C:\Documents and Settings\Admin\Рабочий стол\WpfAppSeaBattle\WpfAppSeaBattle\obj\x86\Debug\WpfAppSeaBattle.Properties.Resources.resources
+C:\Documents and Settings\Admin\Рабочий стол\WpfAppSeaBattle\WpfAppSeaBattle\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Admin\Рабочий стол\WpfAppSeaBattle\WpfAppSeaBattle\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\1\Desktop\WpfAppSeaBattle\WpfAppSeaBattle\obj\x86\Debug\WpfAppSeaBattle.exe
+C:\Users\1\Desktop\WpfAppSeaBattle\WpfAppSeaBattle\obj\x86\Debug\WpfAppSeaBattle.pdb
+C:\Users\1\Desktop\WpfAppSeaBattle\WpfAppSeaBattle\bin\Debug\WpfAppSeaBattle.exe
+C:\Users\1\Desktop\WpfAppSeaBattle\WpfAppSeaBattle\bin\Debug\WpfAppSeaBattle.pdb
+C:\Users\1\Desktop\WpfAppSeaBattle\WpfAppSeaBattle\obj\x86\Debug\WpfAppSeaBattle.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\WpfAppSeaBattle\WpfAppSeaBattle\obj\x86\Debug\MainWindow.baml
+C:\Users\1\Desktop\WpfAppSeaBattle\WpfAppSeaBattle\obj\x86\Debug\MainWindow.g.cs
+C:\Users\1\Desktop\WpfAppSeaBattle\WpfAppSeaBattle\obj\x86\Debug\App.g.cs
+C:\Users\1\Desktop\WpfAppSeaBattle\WpfAppSeaBattle\obj\x86\Debug\WpfAppSeaBattle_MarkupCompile.cache
+C:\Users\1\Desktop\WpfAppSeaBattle\WpfAppSeaBattle\obj\x86\Debug\WpfAppSeaBattle.g.resources
+C:\Users\1\Desktop\WpfAppSeaBattle\WpfAppSeaBattle\obj\x86\Debug\WpfAppSeaBattle.Properties.Resources.resources
+C:\Users\1\Desktop\WpfAppSeaBattle\WpfAppSeaBattle\obj\x86\Debug\WpfAppSeaBattle.csproj.GenerateResource.Cache
+C:\Users\Никита\Desktop\SeaBattle\WpfAppSeaBattle\obj\x86\Debug\WpfAppSeaBattle.exe
+C:\Users\Никита\Desktop\SeaBattle\WpfAppSeaBattle\obj\x86\Debug\WpfAppSeaBattle.pdb
+C:\Users\Никита\Desktop\SeaBattle\WpfAppSeaBattle\bin\Debug\WpfAppSeaBattle.exe
+C:\Users\Никита\Desktop\SeaBattle\WpfAppSeaBattle\bin\Debug\WpfAppSeaBattle.pdb
+C:\Users\Никита\Desktop\SeaBattle\WpfAppSeaBattle\obj\x86\Debug\WpfAppSeaBattle.csprojResolveAssemblyReference.cache
+C:\Users\Никита\Desktop\SeaBattle\WpfAppSeaBattle\obj\x86\Debug\MainWindow.baml
+C:\Users\Никита\Desktop\SeaBattle\WpfAppSeaBattle\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Никита\Desktop\SeaBattle\WpfAppSeaBattle\obj\x86\Debug\App.g.cs
+C:\Users\Никита\Desktop\SeaBattle\WpfAppSeaBattle\obj\x86\Debug\WpfAppSeaBattle_MarkupCompile.cache
+C:\Users\Никита\Desktop\SeaBattle\WpfAppSeaBattle\obj\x86\Debug\WpfAppSeaBattle.g.resources
+C:\Users\Никита\Desktop\SeaBattle\WpfAppSeaBattle\obj\x86\Debug\WpfAppSeaBattle.Properties.Resources.resources
+C:\Users\Никита\Desktop\SeaBattle\WpfAppSeaBattle\obj\x86\Debug\WpfAppSeaBattle.csproj.GenerateResource.Cache
